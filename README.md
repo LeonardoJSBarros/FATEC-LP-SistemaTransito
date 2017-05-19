@@ -1,15 +1,17 @@
-# FATEC-LP-SistemaTransito
+# FATEC Zona Leste - Linguagem de Programação - SistemaTransito
 
 Exercício:
 
 Criar uma classe abstrata segundo:
-....................................................................................................................................	
-.	                     	Estatística 	         	                                                .
-.....................................................................................................................................
-.Cod Cidade     :       Nome Cidade    :     QTD Acidentes     :     Tipo Veículo . 
-....................................................................................................................................
-.    int	      :         String       :         int           :          int          .
-...................................................................................................................................
+
+Cod Cidade -> int
+
+Nome Cidade -> String
+
+QTD Acidentes -> int
+
+Tipo Veículo -> int
+
 
 
 Criar classe estatística2015, conforme:
@@ -29,13 +31,24 @@ Criar classe estatística2015, conforme:
     Cidades com Quantidade de acidentes acima da média das 5 cidades.
 
 
+
+
 -----------------------------------------------
+
 |	              MENU ESTATÍSTICA		   	      |
+
 |      Estatísticas de acidentes em 2015      |
+
 | 1 - Cadastro Estatística      			        |
+
 | 2 - Consulta por tipo de veículo	      	  |
+
 | 3 - Consulta por quantidade de acidentes	  |
+
 | 4 - Consulta todos as cidades               |
+
 | 5 - Consulta maior menor média de acidentes	|
+
 | 9 - Finaliza.					                      |
+
 -----------------------------------------------
